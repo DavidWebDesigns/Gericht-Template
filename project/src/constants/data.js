@@ -69,12 +69,12 @@ const awards = [
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
+    title: 'Hospitalidad AAA',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
+    title: 'Chef Maestro',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
