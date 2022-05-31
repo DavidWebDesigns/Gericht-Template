@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
-  "homepage": "https://davidwebdesigns.github.io/Gericht-Template",
+  "homepage": "https://davidwebdesigns.github.io/Gericht-Template/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
